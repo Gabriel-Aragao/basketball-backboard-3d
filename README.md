@@ -9,5 +9,5 @@ The intend of 3d modeling an object like this is to obtain the Techdraw easily, 
 
 | ![Rim 3D Model](https://github.com/Gabriel-Aragao/basketball-backboard-3d/blob/master/media/rim.png?raw=true) | ![Rim Techdraw](https://github.com/Gabriel-Aragao/basketball-backboard-3d/blob/master/media/rim-techdraw.png?raw=true) | 
 
-
+|:---:|:---:|
 
