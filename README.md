@@ -6,7 +6,7 @@ The intend of 3d modeling an object like this is to obtain the Techdraw easily, 
 ![3D Model](https://github.com/Gabriel-Aragao/basketball-backboard-3d/blob/master/media/render.png?raw=true)
 
 
-![Backboard Structure 3D Model](https://github.com/Gabriel-Aragao/basketball-backboard-3d/blob/master/media/backboard.png=200x150)
+![Backboard Structure 3D Model](https://github.com/Gabriel-Aragao/basketball-backboard-3d/blob/master/media/backboard.png=200x150?raw=true)
 
 ![Backboard Structure Techdraw](https://github.com/Gabriel-Aragao/basketball-backboard-3d/blob/master/media/backboard-techdraw.png?raw=true&width=50%) 
 
