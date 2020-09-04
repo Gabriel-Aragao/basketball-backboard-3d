@@ -1,2 +1,4 @@
-# basketball-backboard-3d
-A 3D modeling of a basketball backboard and a rim.
+#Lightwheight Backboard
+This is a 3D modeling and Techdraw of a wall mounted Basketball backboard and rim.
+
+The intend of 3d modeling an object like this is to obtain the Techdraw easily, and do some FEM (Finite Element Material) analisys due to wheight of the backboard structure. 
